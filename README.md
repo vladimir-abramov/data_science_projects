@@ -4,5 +4,5 @@ A repository containing a portfolio of Data Science projects completed by Vladim
 
 |Project|Description|Used libraries|
 |-|-|-|
-|\\Yandex. Music\[http://example.org](https://github.com/vladimir-abramov/yandex-praktikum_data-science_projects/blob/main/01_Yandex_Music/1st_project.ipynb)/\\|||
+|\Yandex. Music\[http://https://github.com/vladimir-abramov/yandex-praktikum_data-science_projects/blob/main/01_Yandex_Music/1st_project.ipynb\|||
 |-|-|-|
