@@ -2,6 +2,8 @@
 
 A repository containing a portfolio of Data Science projects completed by Vladimir Abramov during the training courses at Yandex Praktikum.
 
+[Certificate of Completion of the Course (English Version)](https://github.com/vladimir-abramov/yandex-praktikum_data-science_projects/blob/main/Vladimir_Abramov_DS_eng.pdf)
+
 | Project | Description | Used libraries |
 |---|---|---|
 | [An algorithm for protecting customers' personal data](https://github.com/vladimir-abramov/yandex-praktikum_data-science_projects/blob/main/10_An%20algorithm%20for%20protecting%20customers'%20personal%20data/10_project.ipynb) | Based on the personal data of customers of the insurance company, an algorithm for data encryption using matrix operations has been developed. | Python, Pandas, NumPy, SciKitLearn |
