@@ -13,5 +13,6 @@ A repository containing a portfolio of Data Science projects completed by Vladim
 |[Statistical analysis of data](https://github.com/vladimir-abramov/yandex-praktikum_data-science_projects/blob/main/04_Statistical%20analysis%20of%20data/04_project.ipynb)||Python, Pandas, NumPy, SciPy, Matplotlib, Seaborn, Functools|
 |[Investigation of apartment sale announcements](https://github.com/vladimir-abramov/yandex-praktikum_data-science_projects/blob/main/03_Real%20estate%20market%20analysis/03_project.ipynb)||Python, Pandas, NumPy, Geopy, Matplotlib, Seaborn|
 |[Investigation of borrowers' reliability](https://github.com/vladimir-abramov/yandex-praktikum_data-science_projects/blob/main/02_Investigation%20of%20borrowers'%20reliability/02_project.ipynb)||Python, Pandas|
-|[Yandex. Music](https://github.com/vladimir-abramov/yandex-praktikum_data-science_projects/blob/main/01_Yandex_Music/1st_project.ipynb)||Python, Pandas|
+|[Yandex. Music](https://github.com/vladimir-abramov/yandex-praktikum_data-science_projects/blob/main/01_Yandex_Music/1st_project.ipynb)|
+Based on data from a music streaming service, hypotheses about musical preferences in St. Petersburg and Moscow have been tested.|Python, Pandas|
 
