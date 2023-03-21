@@ -6,6 +6,8 @@ A repository containing a portfolio of Data Science projects completed by Vladim
 
 | Project | Description | Used libraries |
 |---|---|---|
+| [Startup Investments](https://github.com/vladimir-abramov/data_science_projects/blob/main/14_Startup%20Investments/14_sql_project.ipynb) | In the project, we need to analyze data on funds and investments and write SQL queries to the database. | SQL |
+||||
 | [Forecasting taxi orders](https://github.com/vladimir-abramov/data_science_projects/blob/main/12_Forecasting%20taxi%20orders/12_project.ipynb) | Based on historical data of taxi orders in airports, a model was constructed that predicts the number of taxi orders for the next hour to attract more drivers during peak demand.  | Python, Pandas, NumPy, Time, Tqdm, Statsmodels, Matplotlib, Seaborn, SciKitLearn, CatBoost, LightGBM, XGBoost |
 | [A model for determining the cost of cars](https://github.com/vladimir-abramov/data_science_projects/blob/main/11_A%20model%20for%20determining%20the%20cost%20of%20cars/11_project.ipynb) | Based on historical data of technical characteristics, equipment, and service prices for used car sales, a model for a mobile application has been constructed which can determine the market value of a car.  | Python, Pandas, NumPy, Time, Matplotlib, Seaborn, SciKitLearn, CatBoost, LightGBM |
 | [An algorithm for protecting customers' personal data](https://github.com/vladimir-abramov/yandex-praktikum_data-science_projects/blob/main/10_An%20algorithm%20for%20protecting%20customers'%20personal%20data/10_project.ipynb) | Based on the personal data of customers of the insurance company, an algorithm for data encryption using matrix operations has been developed. | Python, Pandas, NumPy, SciKitLearn |
